@@ -1,0 +1,2 @@
+# Hacknights
+For hacknight planning
